@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mayank Rai!
 
-<!--
-**vomayank/vomayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- **Bachelor of Technology (B.Tech)**  
+  Graduated in **2018** (Started in **2014**)
 
-Here are some ideas to get you started:
+## 💼 Professional Experience
+- **Software Engineer**  
+  **2018 - Present**  
+  Currently working in the **logistics domain**, specializing in:
+  - **NestJS, Node.js, and TypeScript** frameworks
+  - **Cloud Architecture** and **Server Management**
+  - **Docker** and **Jenkins Pipeline** for CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Focus Areas
+- Committed to applying **SOLID Design Principles** in software development with NestJS.
+- Passionate about creating scalable and maintainable solutions.
+
+## 🎯 Future Goals
+- Aspiring to become a **Solution Architect** in the next **4 years**.
+
+## 🎥 Hobbies
+- Creating **YouTube videos** on programming topics.
+- Actively writing **blogs** about programming and tackling complex design patterns using SOLID principles.
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) (replace with your actual LinkedIn URL)
+- [YouTube](https://www.youtube.com/channel/your-channel) (replace with your actual YouTube channel)
+- [Blog](https://your-blog-url.com) (replace with your actual blog URL)
+
+Feel free to reach out if you want to collaborate or discuss programming!
